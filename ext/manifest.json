@@ -1,0 +1,13 @@
+{
+  "name": "EasyPortal",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["http://apps.custom-control.com/*"],
+      "js": [
+        "content.tsx"
+      ]
+    }
+  ]
+}
