@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f629862-3677-488e-8d49-ac2d34159645" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/easy-portal-app/manifest.json" afterDir="false" />
+    <list default="true" id="1f629862-3677-488e-8d49-ac2d34159645" name="Changes" comment="starting over with boilerplate code">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/webserver.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy-portal-app/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/content.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ext/manifest.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +62,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2020.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\" />
       <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app" />
       <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app\dist" />
       <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app\public" />
@@ -97,6 +92,7 @@
       <workItem from="1689206903373" duration="3914000" />
       <workItem from="1689284328792" duration="1050000" />
       <workItem from="1689285405689" duration="3887000" />
+      <workItem from="1689289359312" duration="1705000" />
     </task>
     <task id="LOCAL-00001" summary="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part">
       <created>1688087643902</created>
@@ -105,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688087643902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="starting over with boilerplate code">
+      <option name="closed" value="true" />
+      <created>1689289539172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689289539172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part" />
+    <MESSAGE value="starting over with boilerplate code" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting over with boilerplate code" />
   </component>
 </project>
