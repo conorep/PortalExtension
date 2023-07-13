@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f629862-3677-488e-8d49-ac2d34159645" name="Changes" comment="" />
+    <list default="true" id="1f629862-3677-488e-8d49-ac2d34159645" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/easy-portal-app/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy-portal-app/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/content.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext/manifest.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,27 +47,39 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1" />
   <component name="ProjectId" id="2RtylgPEFSx6gel3ezzQtNmUFlm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Conor.OBrien/IdeaProjects/ADVISEIT",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.nodejs.core.library.configured.version": "19.7.0",
+    "javascript.nodejs.core.library.typings.version": "20.3.2",
+    "last_opened_file_path": "C:/Users/Conor.OBrien/IdeaProjects/PortalExtension/easy-portal-app/public",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\Conor.OBrien\\IdeaProjects\\PortalExtension\\easy-portal-app\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2020.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app" />
+      <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app\dist" />
+      <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\easy-portal-app\public" />
       <recent name="C:\Users\Conor.OBrien\IdeaProjects\PortalExtension\ext" />
     </key>
   </component>
@@ -60,11 +91,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688083824429</updated>
-      <workItem from="1688083825820" duration="1922000" />
+      <workItem from="1688083825820" duration="3856000" />
+      <workItem from="1689206333831" duration="131000" />
+      <workItem from="1689206481793" duration="222000" />
+      <workItem from="1689206903373" duration="3914000" />
+      <workItem from="1689284328792" duration="1050000" />
+      <workItem from="1689285405689" duration="3887000" />
     </task>
+    <task id="LOCAL-00001" summary="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part">
+      <created>1688087643902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688087643902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial extension build commit&#10;- so far, just have a basic extension with a 'hello world' string output to browser&#10;   - base layer of app is put together, so now comes the fun part" />
   </component>
 </project>
